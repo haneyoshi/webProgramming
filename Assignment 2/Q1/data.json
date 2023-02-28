@@ -1,0 +1,50 @@
+{
+  "The-Birth": {
+    "title": "The Internet is born, but there is no such thing called website",
+    "year": 1969,
+    "url":"https://images.slideplayer.com/24/7084124/slides/slide_18.jpg",
+    "next": "The-First-Website"
+  },
+  "The-First-Website": {
+    "title": "20 years later, the first website arrive",
+    "year": 1989,
+    "url":"https://i.insider.com/4e0b8f4dccd1d54255060000?width=750&format=jpeg&auto=webp",
+    "next": "The-Birth_of_at_Sign"
+  },
+  "The-Birth_of_at_Sign": {
+    "title": "The Birth of @ Sign, generating confusions among newscasters",
+    "year": 1994,
+    "url":"https://www.webopedia.com/wp-content/uploads/2020/10/the-symbol-meaning-and-history_5f85a87a6c2dd-2.jpeg",
+    "next": "Welcome-to-the-Wired-World"
+  },
+  "Welcome-to-the-Wired-World": {
+    "title": "1 million domains launched by that time",
+    "year": 1997,
+    "url":"https://images.slideplayer.com/25/7988532/slides/slide_3.jpg",
+    "next": "Dot-Com-Boom"
+  },
+  "Dot-Com-Boom": {
+    "title": ".com boom peaks. PHP 4.0 released: the first purpose-built language for websites",
+    "year": 2000,
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4wjRvoBUHrNdqpkLWYQKVRrLYNbRidluiA&usqp=CAU",
+    "next": "Web-2.0"
+  },
+  "Web-2.0": {
+    "title": "The Internet becomes two-way street. Most website development was still done on live servers via FTP",
+    "year": 2004,
+    "url":"https://miro.medium.com/proxy/1*j3ETZhWD_34xxpVeykOdDQ.jpeg",
+    "next": "Cloud-Computing-Takes-off"
+  },
+  "Cloud-Computing-Takes-off": {
+    "title": "Github.com launches, developers feel the pain of fragmented environments",
+    "year": 2009,
+    "url":"https://techcrunch.com/wp-content/uploads/2018/03/mvimg_20171129_165434.jpg",
+    "next": "Today"
+  },
+  "Today": {
+    "title": "JavaScript, Node.js, Express, and Handlebars are trending technogloes for web development",
+    "year": 2022,
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyZR04rea69m_fPSOZXo5TrNWOh0Vboxz8A&usqp=CAU",
+    "next": "The-Birth"
+  }
+}

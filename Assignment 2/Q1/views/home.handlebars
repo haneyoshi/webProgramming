@@ -1,0 +1,18 @@
+<div>
+  <h2>Title: {{title}}</h2>
+  <h2>Year: {{year}}</h2>
+
+  {{#if url}}
+  <a href="{{url}}">
+    <img id="flowChart" class="flowchart_photo" src="{{url}}" alt="{{title}}">
+    </a>
+  {{/if}}
+
+  {{#if next}}
+  <a class="next" href="/?parameter={{next}}">
+  <h3>
+    <strong>Next: {{next}}</strong>
+    </h3>
+  </a>
+  {{/if}}
+</div>

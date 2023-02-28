@@ -1,0 +1,15 @@
+{{!-- {{#section body}}
+  <style>
+    .menuBar{
+      border: solid 4px black;
+      background-color: brown;
+      justify-content:space-between;
+    }
+  </style>
+  {{/section}} --}}
+
+  <ul>
+  {{#each partials.pageContent}}
+    <li><a href="{{pageUrl}}">{{page.name}}</a></li>
+    {{/each}}
+  </ul>

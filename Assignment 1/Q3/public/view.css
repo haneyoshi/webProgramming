@@ -1,0 +1,50 @@
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: large;
+	color: #000;
+	background-color: #dbdbdb; /* yellow */
+}
+
+header{
+	font-size: xx-large;
+	color: #064b66;
+	text-align: center;
+	font-weight: bold;
+}
+
+/* A class that can only be applied to paragraph elements */
+p{
+	margin: 0px;
+	padding: 15px;
+	background-color: #d3d3d3; /* lightgrey */
+}
+
+/* A id that can only be applied to paragraph elements */
+ /* for error 500 and 404 */
+p.Standout {
+	font-weight: bold;
+	font-style: italic;
+	padding: 15px;
+	color: #f00; /* red */
+	background-color: #d3d3d3; /* lightgrey */
+}
+
+p.hightlights:hover{
+	background-color: rgb(228, 187, 141);
+}
+
+/* A class that can only be applied to images */
+.image{
+	width: "400";
+	 height: "500";
+}
+
+/* A hover fuction zoom out image */
+#zoomOut:hover{
+	/* original size zoom out 20% */
+	transform: rotate(0deg) scale(1.20);
+}
+
+
+
